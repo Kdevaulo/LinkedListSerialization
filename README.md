@@ -31,3 +31,6 @@ Start code is:
 Because of test rules I can't add fields in ListRand class and ListNode class. Also I can't use standart or third party serialization tools.
 
 **Algoritm complexity should be less than O(n²).**
+
+Based on the results, I can say that there are other ways to solve this problem.
+For example we can add a class-inheritor and implement an index field in it, so we will know the index of each element without accessing the dictionary.
